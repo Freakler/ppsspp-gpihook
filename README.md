@@ -5,5 +5,5 @@ Emulates GPI switches normally found on developer hardware (PPSSPP only)
 Place all files in "/PSP/PLUGINS/gpihook"
 
 ## Screenshots
-![ref0](https://github.com/Freakler/ppsspp-gpihook/blob/main/capture_000.png)
-![ref1](https://github.com/Freakler/ppsspp-gpihook/blob/main/capture_001.png)
+![ref0](https://github.com/Freakler/ppsspp-gpihook/blob/master/capture_000.png)
+![ref1](https://github.com/Freakler/ppsspp-gpihook/blob/master/capture_001.png)

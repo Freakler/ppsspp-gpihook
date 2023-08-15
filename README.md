@@ -1,7 +1,6 @@
 # ppsspp-gpihook
 Emulates GPI switches normally found on developer hardware only. 
 
-## General
 Sometimes developers have hidden functionality behind these switches (especially with early builds) in their games. This can be everything from on-screen info to unlocking debug menus!
 
 
@@ -10,7 +9,7 @@ Place all files from release in ```/PSP/PLUGINS/gpihook```
 
 
 ## How to use
-Adjust the "/PSP/PLUGINS/gpihook/config.ini" values where each key represents the respective pyhsical switch.
+Adjust the ```/PSP/PLUGINS/gpihook/config.ini``` values where each key represents the respective pyhsical switch.
 ```
 [GPI]
 0 = FALSE
